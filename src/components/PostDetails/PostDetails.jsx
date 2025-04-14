@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, useLoaderData, useNavigate } from 'react-router';
+import { useLoaderData, useNavigate } from 'react-router';
 
 const PostDetails = () => {
     const details = useLoaderData();

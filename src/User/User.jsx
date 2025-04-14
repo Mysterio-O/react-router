@@ -11,6 +11,7 @@ const User = ({user}) => {
         margin: "10px"
 
     }
+
     return (
         <div style={style}>
             <h3 className='text-3xl'>Name: {name}</h3>
